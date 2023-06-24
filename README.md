@@ -12,3 +12,4 @@ Sales by Retailers: This view focuses on analyzing sales performance across vari
 Sales by Region: This view offers an overview of sales distribution across different regions. Users can analyze sales performance in various geographic areas, identify high-performing regions, and uncover potential growth opportunities.
 
 Sales Methods: This view explores the different sales methods employed by Adidas, such as online sales, in-store sales, and oulet distribution. It provides insights into the effectiveness of each sales method, helping users identify the most profitable channels.
+![Adidas-Dashboard-START](https://github.com/eej5/Visualization/assets/69785724/86a6fc24-0ab9-4543-9b71-3aa88751ca71)
