@@ -1,0 +1,11 @@
+ The dataset used for this Power BI dashboard is the Olympic data available on Kaggle, covering various sports played from 1986 to 2016, along with player details such as gender, age, weight, height, and representing teams. To ensure data accuracy, I performed basic cleaning, including removing duplicates, excluding records with null values in age, height, and weight, and converting blank data under medals to appear as "No Medal."
+
+The dashboard comprises two pages showcasing data based on gender across sports played and medals won. It allows users to explore and analyze the information through different perspectives, including season, year, medal, region, and gender.
+
+Key Insights:
+• The majority of participants are male sports players across the years, except for softball, rhythmic gymnastics, and synchronized swimming.
+• 85% of medals have been won by athletes within the age range of 20-30.
+• The year 1984 had the maximum number of medals won, accounting for 77% of the total number of medals won across the years.
+• USA, Russia, and Germany lead as top achievers, securing the maximum number of medals over the years.
+
+Link to dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzEzN2ZmZDUtNzM4YS00Yjc2LWFiZjUtZTZkYWU2YjEzNmQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
